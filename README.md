@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bolanaguib" alt="bolanaguib" /> </p>
 
-- 💬 Ask me about **React, JS, TailwindCSS**
+- 💬 Ask me about **React, JS, TailwindCSS,ReqctQuery**
 
 - 📫 How to reach me **bolanaguib@gmail.com**
 
 - HTML | CSS | SASS | JSX | JQuery | JavaScript | ES6
 - CMS : Wordpress | Statamic.
-- Libraries:  ReactJS | Ant.Design | ExpressJS | Styled Components| NextJS | Bootstrap | Uikit | tailwindCSS
+- Libraries:  ReactJS | Ant.Design | ExpressJS | Styled Components| NextJS | Bootstrap | Uikit | tailwindCSS 
 - Framework: Laravel 
 - Template Engines: Blade | twig | Symphony
 - Web approach: BEM Methodology
 - Version Control: Github | Gitlab | CMD | SourceTree | GitKraken 
-- Extra: MongoDB | MySQL | PostgreSQL | Docker | Vagrant | Valet | API Handling | SSH | Trello | PWA | Apollo | GraphQL | Prisma | nodeJS | Clean Code 
+- Extra: MongoDB | MySQL | PostgreSQL | Docker | Vagrant | Valet | API Handling | SSH | Trello | PWA | Apollo | GraphQL | ReactQuery | ViteJS | Prisma | nodeJS | Clean Code 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolanaguib&show_icons=true" alt="bolanaguib" />
 
