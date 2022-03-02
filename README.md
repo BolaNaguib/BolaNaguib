@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bolanaguib" alt="bolanaguib" /> </p>
 
-- 💬 Ask me about **React, JS, TailwindCSS,ReqctQuery**
+- 💬 Ask me about **React, JS, TailwindCSS,ReqctQuery, NextJs**
 
 - 📫 How to reach me **bolanaguib@gmail.com**
 
